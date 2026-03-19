@@ -12,15 +12,15 @@ Reddit Downloader is a browser extension built for users who want a cleaner way 
 
 ## Links
 
-- 🚀 Get it here: [Reddit Downloader](https://serp.ly/reddit-downloader)
-- 🆕 Latest release: [GitHub Releases](https://github.com/serpapps/reddit-downloader/releases/latest)
-- ❓ Help center: [SERP Help](https://help.serp.co/en/)
-- 🐛 Report bugs: [GitHub Issues](https://github.com/serpapps/reddit-downloader/issues)
-- 💡 Request features: [Feature Requests](https://github.com/serpapps/reddit-downloader/issues)
+- ðŸš€ Get it here: [Reddit Downloader](https://serp.ly/reddit-downloader)
+- ðŸ†• Latest release: [GitHub Releases](https://github.com/serpapps/reddit-downloader/releases/latest)
+- â“ Help center: [SERP Help](https://help.serp.co/en/)
+- ðŸ› Report bugs: [GitHub Issues](https://github.com/serpapps/reddit-downloader/issues)
+- ðŸ’¡ Request features: [Feature Requests](https://github.com/serpapps/reddit-downloader/issues)
 
 ## Preview
 
-![Reddit Downloader workflow preview](assets/workflow-preview.svg)
+![Reddit Downloader workflow preview](assets/workflow-preview.webp)
 
 ## Table of Contents
 
