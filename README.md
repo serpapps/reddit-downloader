@@ -136,19 +136,19 @@ Start here: [https://serp.ly/reddit-downloader](https://serp.ly/reddit-downloade
 
 ## FAQ
 
-**Can it save Reddit videos with audio?**  
+**Can it save Reddit videos with audio**  
 Yes. Reddit-hosted videos are exported as MP4 files with audio where available.
 
-**Can I download gallery posts?**  
+**Can I download gallery posts**  
 Yes. Visible images from supported gallery posts can be downloaded individually or in bulk.
 
-**Can I export post text too?**  
+**Can I export post text too**  
 Yes. Post text can be saved as TXT files for archiving or note-taking.
 
-**Do I need extra software?**  
+**Do I need extra software**  
 No. Everything runs through the browser extension.
 
-**What if I load more posts by scrolling?**  
+**What if I load more posts by scrolling**  
 Rescan after scrolling so the newly visible content gets added.
 
 ## Notes
