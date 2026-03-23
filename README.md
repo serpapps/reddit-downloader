@@ -12,11 +12,11 @@ Reddit Downloader is a browser extension built for users who want a cleaner way 
 
 ## Links
 
-- ðŸš€ Get it here: [Reddit Downloader](https://serp.ly/reddit-downloader)
-- ðŸ†• Latest release: [GitHub Releases](https://github.com/serpapps/reddit-downloader/releases/latest)
-- â“ Help center: [SERP Help](https://help.serp.co/en/)
-- ðŸ› Report bugs: [GitHub Issues](https://github.com/serpapps/reddit-downloader/issues)
-- ðŸ’¡ Request features: [Feature Requests](https://github.com/serpapps/reddit-downloader/issues)
+- :rocket: Get it here: [Reddit Downloader](https://serp.ly/reddit-downloader)
+- :new: Latest release: [GitHub Releases](https://github.com/serpapps/reddit-downloader/releases/latest)
+- :question: Help center: [SERP Help](https://help.serp.co/en/)
+- :beetle: Report bugs: [GitHub Issues](https://github.com/serpapps/reddit-downloader/issues)
+- :bulb: Request features: [Feature Requests](https://github.com/serpapps/reddit-downloader/issues)
 
 ## Preview
 
@@ -150,6 +150,10 @@ No. Everything runs through the browser extension.
 
 **What if I load more posts by scrolling?**  
 Rescan after scrolling so the newly visible content gets added.
+
+## License
+
+This repository is distributed under the proprietary SERP Apps license in the [LICENSE](LICENSE) file. Review that file before copying, modifying, or redistributing any part of this project.
 
 ## Notes
 
