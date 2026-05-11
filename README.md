@@ -10,6 +10,12 @@ Reddit Downloader is a browser extension built for users who want a cleaner way 
 - Bulk-download visible assets from the current page
 - Keep local copies of content before posts get deleted or buried
 
+## Watch The Video
+
+<a href="https://www.youtube.com/watch?v=dSGxCkydOZ0" target="_blank">
+<img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/reddit-video-downloader-save-videos-before-they-disappear.jpg" width="700px">
+</a>
+
 ## Links
 
 - :rocket: Get it here: [Reddit Downloader](https://serp.ly/reddit-downloader)
@@ -20,7 +26,7 @@ Reddit Downloader is a browser extension built for users who want a cleaner way 
 
 ## Preview
 
-![Reddit Downloader workflow preview](assets/workflow-preview.webp)
+![Reddit Downloader workflow preview](https://raw.githubusercontent.com/serpapps/reddit-downloader/refs/heads/main/assets/workflow-preview.webp)
 
 ## Table of Contents
 
