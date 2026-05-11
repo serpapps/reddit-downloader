@@ -1,11 +1,5 @@
 # Reddit Downloader (Browser Extension)
 
-## Watch the video
-
-<a href="https://www.youtube.com/watch?v=dSGxCkydOZ0" target="_blank">
-<img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/reddit-video-downloader-save-videos-before-they-disappear.jpg" width="700px">
-</a>
-
 > Download Reddit videos, images, galleries, and post text from visible posts in one browser workflow.
 
 Reddit Downloader is a browser extension built for users who want a cleaner way to save Reddit content for offline reference. It scans the posts visible on the current page, detects downloadable media, and lets you save videos, images, galleries, and post text without using external downloader sites or extra software.
