@@ -1,4 +1,4 @@
-# Reddit Downloader (Browser Extension)
+# Reddit Video Downloader (Browser Extension)
 
 > Download Reddit videos, images, galleries, and post text from visible posts in one browser workflow.
 
@@ -12,7 +12,7 @@ Reddit Downloader is a browser extension built for users who want a cleaner way 
 
 ## Links
 
-- :rocket: Get it here: [Reddit Downloader](https://serp.ly/reddit-downloader)
+- :rocket: Get it here: [Reddit Downloader](https://serp.ly/reddit-downloader?via=github)
 - :new: Latest release: [GitHub Releases](https://github.com/serpapps/reddit-downloader/releases/latest)
 - :question: Help center: [SERP Help](https://help.serp.co/en/)
 - :beetle: Report bugs: [GitHub Issues](https://github.com/serpapps/reddit-downloader/issues)
@@ -125,7 +125,7 @@ The extension only works on content you can already access in your current Reddi
 - No credit card required for the trial
 - Unlimited downloads are available with a paid license
 
-Start here: [https://serp.ly/reddit-downloader](https://serp.ly/reddit-downloader)
+Start here: [https://serp.ly/reddit-downloader?via=github](https://serp.ly/reddit-downloader?via=github)
 
 ## Installation Instructions
 
